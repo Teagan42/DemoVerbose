@@ -1,0 +1,24 @@
+{
+  "name": "demoverbose",
+  "version": "1.0.0",
+  "description": "Example express app with verbose documentation and validation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teagan42/DemoVerbose.git"
+  },
+  "author": "Teagan Glenn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teagan42/DemoVerbose/issues"
+  },
+  "homepage": "https://github.com/Teagan42/DemoVerbose#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http-errors": "^1.6.1"
+  }
+}
